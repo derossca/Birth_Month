@@ -23,7 +23,7 @@ public class Main {
         birthMonth = in.nextInt();
         //clear buffer
         in.nextLine();
-        //if statements
+        //if statements that sets parameters of valid birth month integers and outputs according to integer entered
         if (birthMonth > 0 && birthMonth < 13) {
             System.out.println("Your birth month is: " + birthMonth);
         }
