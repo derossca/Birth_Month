@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff63337c-b035-4acd-96df-45b74ad209b4" name="Changes" comment="updated project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff63337c-b035-4acd-96df-45b74ad209b4" name="Changes" comment="fixed scanner mistakes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,7 @@
       <workItem from="1707320543262" duration="2665000" />
       <workItem from="1707346506415" duration="269000" />
       <workItem from="1707508714600" duration="542000" />
-      <workItem from="1707787914529" duration="301000" />
+      <workItem from="1707787914529" duration="384000" />
     </task>
     <task id="LOCAL-00001" summary="added pseudo code">
       <option name="closed" value="true" />
@@ -85,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707323057422</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed scanner mistakes">
+      <option name="closed" value="true" />
+      <created>1707788294482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707788294482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +100,7 @@
     <MESSAGE value="added pseudo code" />
     <MESSAGE value="Declared variables. Added output asking for birth month, user input, and if else statement outputting birthmonth or invalid number" />
     <MESSAGE value="updated project" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated project" />
+    <MESSAGE value="fixed scanner mistakes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed scanner mistakes" />
   </component>
 </project>
